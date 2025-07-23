@@ -8,3 +8,4 @@
 - Push
 - Hila
 - Tulak
+- Takbo
